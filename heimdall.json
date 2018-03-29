@@ -1,0 +1,6 @@
+{
+	"testRollingUpdate" : {
+		"build_cmd": "echo rollling starts"
+	}
+
+}
